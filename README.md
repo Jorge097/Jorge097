@@ -9,7 +9,6 @@ I am a Bilingual (English/Spanish) professional characterized by my proactive, o
 
 # Programing Languages/Technologies I Have Worked With
 - Power Platform
-- Python
 - Laravel
 - MySQL
 - PHP
@@ -25,6 +24,7 @@ I am a Bilingual (English/Spanish) professional characterized by my proactive, o
 # I'm Currently Learning
 - React
 - Java
+- Python
 
 ## Feedback
 
