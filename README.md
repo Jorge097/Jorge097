@@ -28,7 +28,7 @@ I am a Bilingual (English/Spanish) professional characterized by my proactive, o
 
 ## Feedback
 
-If you have any feedback, please reach out to me at jorge.silva-10@outlook.com
+If you have any feedback, please reach me out at jorge.silva-10@outlook.com
 
 ## Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-silva-607807132/)
