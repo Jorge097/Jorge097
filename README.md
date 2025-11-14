@@ -17,7 +17,10 @@ I am a Bilingual (English/Spanish) professional characterized by my proactive, o
 - HTML
 - JavaScript
 - Git/GitHub
-- Adobe
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe InDesign
+- Adobe Premier
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge097&layout=compact)
 
