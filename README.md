@@ -3,7 +3,7 @@
 I am a Bilingual (English/Spanish) professional characterized by my proactive, orderly and highly creative approach. I am passionate about collaborative work and possess a keen active listening. My technical expertise lies in Data Analysis and Web Development and low-code solutions for the simplification of processes. I bring to any team an innate ability to propose constant improvements and innovations, and my rigor in order ensures the integrity of information, from inventory management to strategic data visualization.
 
 # About Me 
-- 24 Years
+- 25 Years
 - Mexican
 - Creative 
 
