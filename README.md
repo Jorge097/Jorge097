@@ -1,11 +1,11 @@
-# Hi there, I'm Jorge Silva! 👋
+# Hi there, I'm Jorge Silva! 
 
 I'm a **Software Engineer** and **Data Analyst** based in Monterrey. I specialize in building efficient web applications that solve real business problems, blending my background in **Corporate Operations (John Deere)** with **Full Stack Development**.
 
-- 🔭 I’m currently working on **Hikari** (an E-commerce platform).
-- 💼 I deployed and maintain the corporate platform for **RG Foliares**.
-- 🌱 I’m currently learning **React**, **Java**, and **Cybersecurity**.
-- ⚡ **Focus:** Process Simplification & Innovation.
+- I’m currently working on **Hikari** (an E-commerce platform).
+- I deployed and maintain the corporate platform for **RG Foliares**.
+- I’m currently learning **React**, **Java**, and **Cybersecurity**.
+- **Focus:** Process Simplification & Innovation.
 
 ---
 
