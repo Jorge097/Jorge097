@@ -32,7 +32,7 @@ Git / GitHub
 <br>
 React ∙ Java ∙ Python
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge097&layout=compact)
+![Most Used Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=Jorge097&layout=compact)
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Silva-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jorge-silva-607807132)
